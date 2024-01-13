@@ -27,18 +27,6 @@
 			<link rel="stylesheet" href="css/animate.min.css">
 			<link rel="stylesheet" href="css/owl.carousel.css">
 			<link rel="stylesheet" href="css/main.css">
-			<style>
-				/* Agrega una clase al navbar */
-				.fixed-navbar {
-					position: fixed;
-					top: 0;
-					width: 100%;
-					background-color: #fff; /* Ajusta el color de fondo según sea necesario */
-					z-index: 1000; /* Asegura que esté por encima de otros elementos */
-					box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Opcional: Agrega una sombra */
-					transition: top 0.3s ease-in-out; /* Agrega un efecto de transición suave */
-				}
-			</style>
 		</head>
 		<body>
 			<!-- start banner Area -->
@@ -532,21 +520,5 @@
 			<script src="js/jquery.counterup.min.js"></script>
 			<script src="js/waypoints.min.js"></script>		
 			<script src="js/main.js"></script>
-			<script>
-				// Agrega un event listener para manejar el evento de desplazamiento (scroll)
-				window.addEventListener("scroll", function() {
-					var navbar = document.querySelector(".navbar");
-		
-					// Define el umbral de desplazamiento (ajusta este valor según sea necesario)
-					var scrollThreshold = 100;
-		
-					// Verifica si la posición de desplazamiento está por debajo del umbral
-					if (window.scrollY > scrollThreshold) {
-						navbar.classList.add("fixed-navbar");
-					} else {
-						navbar.classList.remove("fixed-navbar");
-					}
-				});
-			</script>	
 		</body>
 	</html>
