@@ -1,0 +1,208 @@
+﻿Diagnose log at 2024-01-13T13:42:00Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.0.935+8b4735fc7b
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22621)
+Reading environment variables... OK
+ Variables:
+ANDROID_SDK_ROOT=C:\Users\Zero9\AppData\Local\Android\Sdk
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=SAO
+GIT_TRACE2_PARENT_SID=72a0ceab-5bb1-4ad4-86b0-ba6d401cb786
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\Zero9\OneDrive
+ChocolateyLastPathUpdate=133307393151305999
+HOMEPATH=\Users\Zero9
+EFC_13256=1
+LANG=es_ES.UTF-8
+TMP=C:\Users\Zero9\AppData\Local\Temp
+PROCESSOR_REVISION=2100
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+GIT_ASKPASS=c:\Users\Zero9\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\Zero9\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\Zero9\AppData\Local
+MSYSTEM=MINGW64
+ANDROID_HOME=C:\Users\Zero9\AppData\Local\Android\Sdk
+ProgramW6432=C:\Program Files
+JAVA_HOME=C:\Users\Zero9\AppData\Local\jdk-11.0.2
+USERDOMAIN=SAO
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Zero9\bin;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Users\Zero9\AppData\Local\Android\Sdk\emulator;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Users\Zero9\AppData\Roaming\Python\Python311\Scripts;G:\scripts_python;C:\Users\Zero9\AppData\Roaming\Python\Python311\Scripts\pyinstaller.exe;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Zero9\.console-ninja\.bin;C:\Users\Zero9\AppData\Local\Microsoft\WindowsApps;C:\Users\Zero9\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Zero9\AppData\Local\GitHubDesktop\bin;C:\Users\Zero9\AppData\Roaming\npm;D:\Programacion\src\sqlite-tools-win32-x86-3420000;C:\Users\Zero9\Downloads\x86_64-13.1.0\mingw64\bin;C:\Program Files\dotnet\;C:\Users\Zero9\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Zero9\AppData\Local\Android\Sdk\platform-tools;C:\Users\Zero9\AppData\Local\Android\Sdk\tools;C:\Users\Zero9\AppData\Local\jdk-11.0.2\bin;C:\Users\Zero9\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Zero9\AppData\Local\Programs\Python\Python312\;C:\Users\Zero9\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Zero9\AppData\Local\Programs\Python\Python311\;C:\Users\Zero9\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Zero9\AppData\Local\Programs\Python\Python312\;C:\Users\Zero9\AppData\Local\Android\Sdk\platform-tools;C:\Users\Zero9\AppData\Local\Android\Sdk\tools;C:\Users\Zero9\AppData\Local\jdk-11.0.2\bin;C:\Users\Zero9\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Zero9\AppData\Local\Programs\Python\Python311\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Zero9\.console-ninja\.bin;C:\Users\Zero9\AppData\Local\Microsoft\WindowsApps;C:\Users\Zero9\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Zero9\AppData\Local\GitHubDesktop\bin;D:\Programacion\src\sqlite-tools-win32-x86-3420000;C:\Users\Zero9\AppData\Roaming\nvm;C:\Program Files\nodejs
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=25
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
+TMPDIR=C:\Users\Zero9\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node
+TERM_PROGRAM_VERSION=1.85.1
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\Zero9\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=12
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-17e910aa58-sock
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_1464_UJEQEKMBZJPGRTHZ
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+VSCODE_GIT_ASKPASS_NODE=C:\Users\Zero9\AppData\Local\Programs\Microsoft VS Code\Code.exe
+SESSIONNAME=Console
+SystemRoot=C:\Windows
+NVM_SYMLINK=C:\Program Files\nodejs
+NVM_HOME=C:\Users\Zero9\AppData\Roaming\nvm
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+HOME=C:\Users\Zero9
+python=C:\Users\Zero9\AppData\Local\Programs\Python\Python312
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\SAO
+USERPROFILE=C:\Users\Zero9
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=SAO
+TERM=xterm-256color
+APPDATA=C:\Users\Zero9\AppData\Roaming
+HOMEDRIVE=C:
+PSModulePath=C:\Users\Zero9\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+USERNAME=Zero9
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\Windows\system32\cmd.exe
+SystemDrive=C:
+windir=C:\Windows
+OneDriveConsumer=C:\Users\Zero9\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Zero9\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Zero9\AppData\Local\Temp\93334c16afd769a2bb26cbe1'... OK
+Reading from temporary file 'C:\Users\Zero9\AppData\Local\Temp\93334c16afd769a2bb26cbe1'... OK
+Deleting temporary file 'C:\Users\Zero9\AppData\Local\Temp\93334c16afd769a2bb26cbe1'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Zero9
+UserDataDirectoryPath: C:\Users\Zero9\.gcm
+GetCurrentDirectory(): D:\Programacion\adventure-master
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:65017/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.40.1.windows.1'
+Locating current repository... OK
+Git repository at 'D:/Programacion/adventure-master/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/Zero9/.gitconfig	core.editor="C:\Users\Zero9\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+file:C:/Users/Zero9/.gitconfig	user.name=crypto855
+file:C:/Users/Zero9/.gitconfig	user.email=cryptomarket855@gmail.com
+file:C:/Users/Zero9/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Zero9/.gitconfig	filter.lfs.required=true
+file:C:/Users/Zero9/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Zero9/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Zero9/.gitconfig	safe.directory=D:/Programacion/dolce_ricco
+file:C:/Users/Zero9/.gitconfig	safe.directory=D:/Programacion/sp_ados
+file:C:/Users/Zero9/.gitconfig	safe.directory=D:/Programacion/projectos_django/seven_web
+file:C:/Users/Zero9/.gitconfig	safe.directory=D:/Programacion/OpenBootcamp
+file:C:/Users/Zero9/.gitconfig	safe.directory=D:/Programacion/projectos_django/proyecto_final_django
+file:C:/Users/Zero9/.gitconfig	safe.directory=D:/Programacion/nomenclador_ados
+file:C:/Users/Zero9/.gitconfig	credential.helper=
+file:C:/Users/Zero9/.gitconfig	credential.helper=C:/Program\ Files/Git/mingw64/bin/git-credential-manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/crypto855/La-China-PEPE.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Zero9\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Zero9\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
